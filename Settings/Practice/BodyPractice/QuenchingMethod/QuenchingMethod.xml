@@ -1,0 +1,20 @@
+<BPQuenchingMethods><List>
+
+	<Def Name="BPQuenchingMethods_1"><!--淬炼之法-->
+		<DisplayName>无极炼体</DisplayName>
+		<Desc>炼体者最基础的淬体之法。每次运转此法会对目标部位进行1次标准的淬炼。MOD加持 必出 精华对应 紫色 或 金色词条</Desc>
+		<RollCount>1</RollCount> 
+		<CycleScaleAddtion>0</CycleScaleAddtion>
+		<LabelMoreCount>3</LabelMoreCount>
+		<CostScaleAddtion>0</CostScaleAddtion>
+		<LabelCacheWeightAddtion>
+			<li Name="Cache1" Value="5000"/>
+			<li Name="Cache2" Value="5000"/>
+			<li Name="Cache3" Value="20000"/>
+			<li Name="Cache4" Value="30000"/>
+		</LabelCacheWeightAddtion>
+		<SpecialFlag></SpecialFlag>
+	</Def>
+
+	
+</List></BPQuenchingMethods>
